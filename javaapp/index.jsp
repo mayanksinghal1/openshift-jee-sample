@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Hello Cloud this is mayank.</title>
+<title></title>
 </head>
 <body>
 <h1> Hello Cloud this is mayank</h1>
